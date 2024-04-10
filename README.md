@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/ItWozNotMe">Programmer</a>, <a href="https://www.linkedin.com/in/ryan-smallcalder-126b55217/">Cybersecurity Professional</a>, <a href="https://itwoznotme.github.io/">Blogger</a></h1>
+<h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryan-smallcalder-126b55217/">Cybersecurity Professional</a>, <a href="https://itwoznotme.github.io/">Blogger</a></h1>
 
 
 <h2> IT Projects </h2>
