@@ -19,11 +19,6 @@
 - <b> Malware Reserch Script </b>
   - [Malware Research using VirusTotal's API for automatic malware scans](https://itwoznotme.github.io/2023/09/03/HomeLab-ActiveDirectory.html)
 
-
-<h2>📺 </h2>
-
-
-
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -31,5 +26,5 @@
 
 
 [twitter]: https://twitter.com/ItWozNotMee
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/ryan-smallcalder-126b55217/)
+[linkedin]: https://www.linkedin.com/in/ryan-smallcalder-126b55217/
 
