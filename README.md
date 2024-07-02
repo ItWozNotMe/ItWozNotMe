@@ -18,7 +18,7 @@
   - [Rasberry Pi Homelab (Asset Discovery and Risk Management)](https://itwoznotme.github.io/2024/04/08/Asset-Discovery-and-Risk-Management.html)
 - <b> Honeypot </b>
   - [Honepot data collected via Cloud Computing Platforms (AWS & Digital Ocean)](https://itwoznotme.github.io/2023/09/03/HomeLab-ActiveDirectory.html)
-- <b> Malware Reserch Script </b>
+- <b> Malware Research Script </b>
   - [Malware Research using VirusTotal's API for automatic malware scans](https://itwoznotme.github.io/2023/09/03/HomeLab-ActiveDirectory.html)
 
 <h2> Connect with me:</h2>
