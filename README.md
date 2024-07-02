@@ -6,7 +6,7 @@
 - <b> Active Directory Client + Server Helpdesk Setup </b>
   - [Active Directory Client & Server](https://itwoznotme.github.io/2023/09/03/HomeLab-ActiveDirectory.html)
 - <b> Active Directory Helpdesk Setup </b>
-  - [Active Directory Helpdesk (Client + Server W/Jira Helpdesk Intergration](https://itwoznotme.github.io/2024/02/01/Active-Directory-Jira.html)
+  - [Active Directory Helpdesk (Client + Server W/Jira Helpdesk Integration)](https://itwoznotme.github.io/2024/02/01/Active-Directory-Jira.html)
 - <b> Homelab Networking </b>
   - [Homelab Networking (Firewalls, Switches & VLANS)](https://itwoznotme.github.io/2024/06/08/Home-Networking.html)
 
